@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick Shawver!
 - 👀 I’m interested in Web and Application Development
-- 🌱 I’m currently learning front end programming techniques in JavaScrit, HTML5, and CSS3
+- 🌱 I’m currently learning front end programming techniques in JavaScript, HTML5, and CSS3
 - 📫 How to reach me: 
 
     Email - nshawver18@gmail.com
