@@ -1,11 +1,4 @@
-- 👋 Hi, I’m Nick Shawver!
-- 👀 I’m interested in Web and Application Development
-- 🌱 I’m currently learning front end programming techniques in JavaScript, HTML5, and CSS3
-- 📫 How to reach me: 
-
-    Email - nshawver18@gmail.com
-    
-    Phone - (843) 609-7738
+Hello! I'm Nick Shawver. I am an upcoming graduate from Liberty University, with a bachelor's degree in Information Technology: Web and Mobile Programming. I find joy in researching and creating new software solutions and specifically love to work with front-end development. I believe that this aspect of software development allows me to harness my creative mind and design beautiful pages and applications! If you would like to contact me, please do so by emailing me at nshawver18@gmail.com.
 
 <!---
 nshawver/nshawver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
